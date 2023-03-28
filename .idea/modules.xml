@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/projetos-java.iml" filepath="$PROJECT_DIR$/projetos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FabricaDeCarros/FabricaDeCarros.iml" filepath="$PROJECT_DIR$/FabricaDeCarros/FabricaDeCarros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImpressaoNumeros/ImpressaoNumeros.iml" filepath="$PROJECT_DIR$/ImpressaoNumeros/ImpressaoNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bootcamp-java.iml" filepath="$PROJECT_DIR$/.idea/bootcamp-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-dio/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/bootcamp-dio/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcamp-dio/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/bootcamp-dio/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
   </component>
 </project>
